@@ -23,5 +23,4 @@ A high-conversion, dark-themed landing page designed for a modern travel agency.
 * **Frontend:** HTML5, CSS3 (Tailwind CSS suggested)
 * **Interactivity:** JavaScript (Swiper.js for carousels)
 
----
-© 2024 Travel Platform Project
+
